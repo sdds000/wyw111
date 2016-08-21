@@ -1,0 +1,31 @@
+/*fff.css*/
+*{
+    margin:0;
+    padding:0;
+}
+a.sdds:link{
+    color:#0a2;
+    font-size:100px;
+}
+a.sdds:visited{
+    color:#f6f;
+text-decoration:none;
+}
+a.sdds:hover{
+    color:#812;
+    font-size:150px;
+    text-decoration:none;
+}
+a.sdds:active{
+    color:#02f;
+}
+p::first-letter{
+    font-size:100px;
+    color:#f6f;
+}
+p::first-line{
+
+}
+body{
+ background: #f6f repeat-x url("wyw111/")
+}
